@@ -1,3 +1,5 @@
+"use client";
+
 import HomePage from "../components/home/page";
 import { Navbar } from "@/components/layout/Navbar";
 

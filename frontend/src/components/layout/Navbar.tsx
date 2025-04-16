@@ -116,7 +116,7 @@ export function Navbar() {
     >
       <div className="container flex h-16 items-center justify-between mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center gap-2">
-          {localStorage.getItem("user") ? (
+          {currentUser ? (
             <Link href="/dashboard" className="flex items-center gap-2">
               <BookOpen className="h-6 w-6 text-book-burgundy" />
               <span className="text-xl font-semibold">BookWorm Hub</span>
