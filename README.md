@@ -8,7 +8,7 @@ Book Owners: People who want to give away or rent books
 
 Book Seekers: People searching for books to rent or exchange
 
-![image](https://github.com/user-attachments/assets/be920619-ae45-4ca7-b923-636ec879f30b)
+![image](https://github.com/user-attachments/assets/7b495dab-e847-4a77-94b4-afab4b2eedab)
 
 
 ## Installation :wrench:
